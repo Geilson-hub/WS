@@ -3,10 +3,10 @@
    =================================== */
 :root {
     --primary-color: #1e3a5f;
-    --accent-color: #dc2626;
+    --accent-color: #827ac9;
     --dark-color: #0f172a;
     --light-color: #f8fafc;
-    --gray-color: #64748b;
+
     --white-color: #ffffff;
 
     --gradient-primary: linear-gradient(135deg, var(--primary-color) 0%, #2c5282 100%);
@@ -165,7 +165,7 @@ button {
 }
 
 .logo-img {
-    height: 50px;
+    height: 45px;
     width: auto;
     object-fit: contain;
 }
