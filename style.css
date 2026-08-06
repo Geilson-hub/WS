@@ -112,7 +112,7 @@ button {
 }
 
 .btn-primary {
-    background: var(--gradient-accent);
+    background: #4a5568;
     color: var(--white-color);
     box-shadow: var(--shadow-md);
 }
